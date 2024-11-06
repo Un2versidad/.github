@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/fl2on/fl2on/main/resources/img/header.png" alt="GitHub README header image">
 <div align="left">
   <details>
-    <summary>:globe_with_meridians: Languages Available</summary>
+    <summary>:globe_with_meridians: Langues disponibles</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
@@ -18,34 +18,28 @@
   </details>
 </div>
 
-## 💫About Me
-
-- <img alt="GIF" src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="25" /> &nbsp; **Machine learning** is an area I'm focusing on right now. <img width="15%" align="right" alt="Github Image" src="https://thepixelshopapp.files.wordpress.com/2022/11/5ae52-tanuki_sumiez.gif" /><br>
-- <img src="https://cdn3.emoji.gg/emojis/2561-working.gif" width="20" />&nbsp;&nbsp;&nbsp; I’m Currently Working on **NYZX**. <br>
-- <img src="https://i.pinimg.com/originals/9c/b1/59/9cb159ed669f59d43cf2abc56c33f6a4.gif" width="25" />&nbsp;&nbsp; Ask me about **Custom Mechanical Keyboard**, **Pc building, Technology, or anything else**. <br>
-- <img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" width="25" /> &nbsp; You may Contact me Here: **[fl2on](https://fl2on.github.io/Mail/)**<br>
-- <img src="https://cdn3.emoji.gg/emojis/9099-happy-spongebob.gif" width="25" /> &nbsp; I’m Currently a Student of Systems Engineering at **[UIP](https://uip.edu.pa/)**.<br>
+## 💫À propos de moi
+-  <img alt="GIF" src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="25" /> &nbsp; **L'apprentissage machine** est un domaine sur lequel je me concentre actuellement. <img width="15%" align="right" alt="Github Image" src="https://thepixelshopapp.files.wordpress.com/2022/11/5ae52-tanuki_sumiez.gif" /><br>
+- <img src="https://cdn3.emoji.gg/emojis/2561-working.gif" width="20" />&nbsp;&nbsp;&nbsp; Je travaille actuellement sur **NYZX**. <br>
+- <img src="https://i.pinimg.com/originals/9c/b1/59/9cb159ed669f59d43cf2abc56c33f6a4.gif" width="25" />&nbsp;&nbsp; Posez moi des questions sur **Clavier mécanique personnalisé**, **Construction de PC, Technologie, ou tout autre sujet**. <br>
+- <img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" width="25" /> &nbsp; Vous pouvez me contacter ici: **[fl2on](https://fl2on.github.io/Mail/)**<br>
+- <img src="https://cdn3.emoji.gg/emojis/9099-happy-spongebob.gif" width="25" /> &nbsp; Je suis actuellement étudiant en ingénierie des systèmes à **[UIP](https://uip.edu.pa/)**.<br>
 
 ## <img src="https://raw.githubusercontent.com/fl2on/fl2on/main/resources/img/discord.svg" width="22px" height="22px" /> DiscordRPC
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/747543630176321637)](https://discord.com/users/747543630176321637)<img width="17%" align="right" alt="Github Image" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" /><br>
 
-## 🌐Socials
-
+## 🌐Médias sociaux
 <p><a href="https://twitter.com/nova_fl2on"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/franklin-leon-19a642258/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/fl2on9/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/channel/UCdVLW0gBG9cDwd7qDcd9EbQ"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://dev.to/fl2on"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
-## 💻Tech Stack
-
+## 💻Pile technologique
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-## 📊GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=fl2on&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = 400> <img width="23%" align="right" alt="Github Image" src="https://64.media.tumblr.com/tumblr_lrhdzmLDWU1qfctcoo1_400.gif" /><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fl2on&theme=radical&hide_border=false" width = 440><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl2on&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 315>
-
-<details open>
-  <summary>More Stats</summary>
+## 📊Statistiques GitHub
+  <img src="https://github-readme-stats.vercel.app/api?username=fl2on&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = 400>       <img width="23%" align="right" alt="Github Image" src="https://64.media.tumblr.com/tumblr_lrhdzmLDWU1qfctcoo1_400.gif" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fl2on&theme=radical&hide_border=false" width = 440><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl2on&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 315>
+<details open>   
+  <summary>Plus de statistiques</summary>
   <br/>
   <p align = "left">
   <img src="https://metrics.lecoq.io/fl2on?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto">
@@ -53,27 +47,28 @@
 </details>
 </div>
 
-## 💡Misc Stuff
-
-<details open>
-  <summary><h3>📽️Latest YouTube Videos</h2></summary>
+## 💡Divers
+<details open> 
+  <summary><h3>📽️Dernières vidéos YouTube</h2></summary>
   <br/>
-
+  
+  <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![NYZX Music Card (Dsharpplus C#)](https://ytcards.demolab.com/?id=NBDlgj5vKZ8&title=NYZX+Music+Card+%28Dsharpplus+C%23%29&lang=en&timestamp=1700455533&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NYZX Music Card (Dsharpplus C#)")](https://www.youtube.com/watch?v=NBDlgj5vKZ8)
-[![AI Avatar Enhancer Slash Command Test Discord Bot](https://ytcards.demolab.com/?id=TUGLDmxnb6k&title=AI+Avatar+Enhancer+Slash+Command+Test+Discord+Bot&lang=en&timestamp=1700454484&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AI Avatar Enhancer Slash Command Test Discord Bot")](https://www.youtube.com/watch?v=TUGLDmxnb6k)
-[![NYZX Discord Bot .Net Obfuscator SlashCommand](https://ytcards.demolab.com/?id=D6LpOO2M7co&title=NYZX+Discord+Bot+.Net+Obfuscator+SlashCommand&lang=en&timestamp=1700453388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NYZX Discord Bot .Net Obfuscator SlashCommand")](https://www.youtube.com/watch?v=D6LpOO2M7co)
-[![Exploring Nyzx Discord Bot: Testing Spotify Song Playback](https://ytcards.demolab.com/?id=AABWY8Jfq4U&title=Exploring+Nyzx+Discord+Bot%3A+Testing+Spotify+Song+Playback&lang=en&timestamp=1688582256&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Exploring Nyzx Discord Bot: Testing Spotify Song Playback")](https://www.youtube.com/watch?v=AABWY8Jfq4U)
-[![Testing Nyzx Discord Bot's OCR Feature: Extracting Text from Images](https://ytcards.demolab.com/?id=5qOUVkR1BzI&title=Testing+Nyzx+Discord+Bot%27s+OCR+Feature%3A+Extracting+Text+from+Images&lang=en&timestamp=1688581053&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Testing Nyzx Discord Bot's OCR Feature: Extracting Text from Images")](https://www.youtube.com/watch?v=5qOUVkR1BzI)
-[![NYZX | Discord Scam Detector V2.0 (.NET Reverse) - Protecting Users from Suspicious Content](https://ytcards.demolab.com/?id=TOE63uw_kLk&title=NYZX+%7C+Discord+Scam+Detector+V2.0+%28.NET+Reverse%29+-+Protecting+Users+from+Suspicious+Content&lang=en&timestamp=1657998958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NYZX | Discord Scam Detector V2.0 (.NET Reverse) - Protecting Users from Suspicious Content")](https://www.youtube.com/watch?v=TOE63uw_kLk)
+[![NYZX | Virus Total Discord Scam Detector V2.0 (.Net Reverse)](https://ytcards.demolab.com/?id=TOE63uw_kLk&title=NYZX+%7C+Virus+Total+Discord+Scam+Detector+V2.0+%28.Net+Reverse%29&lang=en&timestamp=1657998958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "NYZX | Virus Total Discord Scam Detector V2.0 (.Net Reverse)")](https://www.youtube.com/watch?v=TOE63uw_kLk)
+[![[General Crypto Check] // [Discord Bot Cmd Test] // [NYZX] (2/10/2022)](https://ytcards.demolab.com/?id=Wz1j9q9yJeE&title=%5BGeneral+Crypto+Check%5D+%2F%2F+%5BDiscord+Bot+Cmd+Test%5D+%2F%2F+%5BNYZX%5D+%282%2F10%2F2022%29&lang=en&timestamp=1644541727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "[General Crypto Check] // [Discord Bot Cmd Test] // [NYZX] (2/10/2022)")](https://www.youtube.com/watch?v=Wz1j9q9yJeE)
+[![Image Colorization ( AI ) // NYZX // Cmd Test // Discord Bot 👨‍💻](https://ytcards.demolab.com/?id=Ak8qTDGPKeg&title=Image+Colorization+%28+AI+%29+%2F%2F+NYZX+%2F%2F+Cmd+Test+%2F%2F+Discord+Bot+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&lang=en&timestamp=1643859038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Image Colorization ( AI ) // NYZX // Cmd Test // Discord Bot 👨‍💻")](https://www.youtube.com/watch?v=Ak8qTDGPKeg)
+[![NYZX // Math Cmd Test || Discord Bot](https://ytcards.demolab.com/?id=7Tc0hobVDSE&title=NYZX+%2F%2F+Math+Cmd+Test+%7C%7C+Discord+Bot&lang=en&timestamp=1643856547&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "NYZX // Math Cmd Test || Discord Bot")](https://www.youtube.com/watch?v=7Tc0hobVDSE)
+[![[Guess Anime Scene] || Test || Nyzx || Discord Bot || 🛠](https://ytcards.demolab.com/?id=wR-TgTVeGM8&title=%5BGuess+Anime+Scene%5D+%7C%7C+Test+%7C%7C+Nyzx+%7C%7C+Discord+Bot+%7C%7C+%F0%9F%9B%A0&lang=en&timestamp=1643809161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "[Guess Anime Scene] || Test || Nyzx || Discord Bot || 🛠")](https://www.youtube.com/watch?v=wR-TgTVeGM8)
+[![Discord URL Finder [Server Moderator Tool] NYZX (28/11/2021)](https://ytcards.demolab.com/?id=5LCWAQW50Ww&title=Discord+URL+Finder+%5BServer+Moderator+Tool%5D+NYZX+%2828%2F11%2F2021%29&lang=en&timestamp=1638094416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Discord URL Finder [Server Moderator Tool] NYZX (28/11/2021)")](https://www.youtube.com/watch?v=5LCWAQW50Ww)
 <!-- END YOUTUBE-CARDS -->
-
+  <!-- prettier-ignore-end -->
+  
 </details>
 
-<details open>
-  <summary><h3>✍️Random Dev Quote</h2></summary>
+<details open> 
+  <summary><h3>✍️Citation aléatoire d'un développeur</h2></summary>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </details>
 
@@ -85,8 +80,7 @@
 ![](https://img.shields.io/github/last-commit/fl2on/fl2on)
 <img src="https://visitcount.itsvg.in/api?id=fl2on&icon=0&color=12" width="150" height="21">
 
-## 📑Support me
-
+## 📑Soutenez moi
 <p align="center">
       <img width="98%" alt="Banner" src="https://raw.githubusercontent.com/fl2on/fl2on/main/resources/img/Banner.png"/>
 </p>
@@ -96,6 +90,6 @@
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/fl2on/fl2on/ff227e9cdf74a2cbf4b69f9d92ae8b6ebe87fa5b/resources/img/support-paypal.png"/>
   </a>
   <a href="https://ko-fi.com/nova72648" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://github.com/fl2on/fl2on/blob/b6ba48e183a1fe4dbec633d1b481e0c18c72f377/resources/img/support-buy-coffee.png"/>
+      <img width="18%" alt="Buy me a coffee" src="https://github.com/fl2on/fl2on/blob/c20c26fd093248b5c3f7b40f928375680c832e2a/resources/img/support-buy-coffee.png"/>
   </a>
 </p>
